@@ -1,22 +1,22 @@
-#What is a Network?
+## What is a Network?
 
-##Definition
+## Definition
 A Network is a collection of two or more devices connected together to share data, resources and services.
 
-##Why is Network Important?
+## Why is Network Important?
 -Data Sharing
 -Resource sharing
 -Internet access
 -Communication
 
-##Types of Networks
-###LAN(Local Area Network)
+## Types of Networks
+### LAN(Local Area Network)
 
 A LAN is a Network that covers a small geographical area.
 
 Example- Home wi-fi,office network
 
-###MAN(Metropolitan  area network )
+### MAN(Metropolitan  area network )
 
 Covers a city or campus.
 
