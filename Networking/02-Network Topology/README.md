@@ -4,20 +4,31 @@ Network topology refers to the physical or logical arrangement of devices (nodes
 
 # It determines:
 -How devices are connected
+
 -How data travels
+
 -How easily the network can be expanded
+
 -Performance
+
 -Reliability
+
 -Fault tolerance
 
 ## Why is Network Topology Important?
 
 Network Speed
+
 Scalability
+
 Maintenance
+
 Cost
+
 Security
+
 Fault Tolerance
+
 Troubleshooting
 
 ## Components of a Network Topology
@@ -34,19 +45,29 @@ Network Links
 All Devices are connected to a single central cable. simple and cost-eefective but hard to troubleshoot.
 ## Working
 One device sends data.
+
 Data travels across the backbone.
+
 Every device receives it.
+
 Only the destination accepts it.
 
 # Advantages
 Low cost
+
 Easy installation
+
 Less cable required
+
 Good for small networks
+
 # Disadvantages
 Backbone failure brings down the entire network
+
 Difficult troubleshooting
+
 Low performance with many devices
+
 Data collisions
 
 ## Bus Topology
