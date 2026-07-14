@@ -158,7 +158,7 @@ Open standard
 Compatible with all major operating systems
 
 ## TCP/IP Model
-[TCP/IP Model](image/tcpip.png)
+![TCP/IP Model](image/tcpip.png)
 
 # Real-World Example
 

@@ -194,4 +194,4 @@ Address Resolution Protocol (ARP) is a network protocol used to map an IPv4 addr
 
 When a device knows the destination IP address but not the destination MAC address, it sends an ARP Request. The device with the matching IP address responds with an ARP Reply containing its MAC address.
 
-![IP Addressing ](/image/ipaddress.png)
+![IP Addressing ](image/ipaddress.png)
