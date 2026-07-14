@@ -87,7 +87,7 @@ Connects different network architectures
 
 Often acts as the default gateway in IP networks
 
-#What is a Modem?
+# What is a Modem?
 
 A Modem (Modulator-Demodulator) converts digital signals into analog signals and vice versa, enabling communication between a local network and an ISP.
 
@@ -111,7 +111,7 @@ Can inspect Layers 3, 4, and 7 (depending on type)
 
 Essential security device
 
-#What is an Access Point?
+# What is an Access Point?
 
 An Access Point (AP) is a networking device that provides wireless connectivity by allowing Wi-Fi devices to join a wired LAN.
 
