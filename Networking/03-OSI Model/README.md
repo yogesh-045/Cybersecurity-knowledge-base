@@ -138,8 +138,8 @@ Fiber Optic
 
 Wireless
 
-#OSI Model
-![OSI Model](image/OSI Model.png)
+# OSI Model
+![OSI Model](image/osimodel.png)
 
 ## Real-World Example (Loading a Website)
 
