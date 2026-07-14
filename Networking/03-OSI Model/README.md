@@ -12,14 +12,16 @@ Helps understand data flow.
 Promotes interoperability between vendors.
 
 ## The 7 Layers of the OSI Model
-Layer   Name	     |    Main Function
-7	    Application	 |   User-facing network services
-6	    Presentation |	 Data translation, encryption, compression
-5	    Session	      Establishes, manages, and terminates sessions
-4	    Transport	 |    Reliable data delivery, segmentation
-3	    Network	     |   Routing and logical addressing
-2	    Data Link	 |   MAC addressing and error detection
-1	    Physical	 |   Transmission of raw bits
+
+| Layer | Name            | Main Function |
+|:-----:|------           |---------------|
+| **7** | **Application** | User-facing network services |
+| **6** | **Presentation**| Data translation, encryption, and compression |
+| **5** | **Session**     | Establishes, manages, and terminates communication sessions |
+| **4** | **Transport**   | Reliable data delivery, segmentation, flow control, and error recovery |
+| **3** | **Network**     | Routing, logical addressing, and path selection |
+| **2** | **Data Link**   | MAC addressing, framing, and error detection |
+| **1** | **Physical**    | Transmission of raw bits over the physical medium |
 
 # Layer 7 – Application Layer
 Provides network services directly to end-user applications.
@@ -139,7 +141,7 @@ Fiber Optic
 Wireless
 
 #OSI Model
-![OSI Model](image/OSI Model.png)
+![OSI Model](image/OSIModel.png)
 
 ## Real-World Example (Loading a Website)
 
