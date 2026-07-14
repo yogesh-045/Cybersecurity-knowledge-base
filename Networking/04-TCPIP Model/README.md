@@ -21,27 +21,9 @@ Highly scalable and reliable
 |:-----:|------|----------|
 | **4** | **Application** | Provides network services to users  and applications |
 | **3** | **Transport**  | End-to-end communication, segmentation, reliability, flow control, and error recovery |
+| **2** | **Internet**   | Logical addressing, routing, packet forwarding, and path selection |
+| **1** | **Network Access** | Physical transmission, framing, MAC addressing, and communication over the network                                      medium |
 
-| **2** | **Internet** | Logical addressing, routing, packet forwarding, and path selection |
-
-| **1** | **Network Access** | Physical transmission, framing, MAC addressing, and communication over the network medium |
-
-
-# Tcp/ip layer diagram
-
-+--------------------------------------+
-|  Application Layer                   |
-|  HTTP, HTTPS, DNS, FTP, SMTP, SSH    |
-+--------------------------------------+
-|  Transport Layer                     |
-|  TCP, UDP                            |
-+--------------------------------------+
-|  Internet Layer                      |
-|  IP, ICMP, ARP                       |
-+--------------------------------------+
-|  Network Access Layer                |
-|  Ethernet, Wi-Fi, Fiber              |
-+--------------------------------------+
 
 # Layer 4 – Application Layer
 
